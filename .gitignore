@@ -17,4 +17,6 @@ sql/dummy_log.sql
 sql/dummy_users.sql
 sql/dummy_users.tsv
 sql/dummy_users_used.tsv
+.viminfo
+.bash_history
 
